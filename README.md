@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcTNuZ3ZqZzd0MGl6ZWVwYjVwZW90dDNtbmM1Z3EwY3p6bW96eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="60"/>
-</div>
 
 # 👋 Olá! Eu sou o Maurício Trainotti.
 Desenvolvedor em formação, apaixonado por transformar ideias em soluções digitais, da web ao mobile.
@@ -10,9 +7,9 @@ Desenvolvedor em formação, apaixonado por transformar ideias em soluções dig
 ### 👨‍💻 Sobre Mim
 
 <p align="left"> 
-  [cite_start]🎓 Cursando o 6º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRS - Campus Sertão[cite: 48, 49].<br>
-  [cite_start]🎯 Buscando uma <strong>oportunidade de estágio</strong> para aplicar e expandir meus conhecimentos em um ambiente profissional, colaborando com equipes e projetos inovadores[cite: 32].<br>
-  [cite_start]💡 Minha jornada começou na cultura maker, com projetos envolvendo <strong>Modelagem 3D, Arduino e Design</strong>[cite: 4, 7], o que me deu uma base sólida em resolução criativa de problemas.
+🎓 Cursando o 6º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRS - Campus Sertão[cite: 48, 49].<br>
+🎯 Buscando uma <strong>oportunidade de estágio</strong> para aplicar e expandir meus conhecimentos em um ambiente profissional, colaborando com equipes e projetos inovadores[cite: 32].<br>
+💡 Minha jornada começou na cultura maker, com projetos envolvendo <strong>Modelagem 3D, Arduino e Design</strong>, o que me deu uma base sólida em resolução criativa de problemas.
 </p>
 
 ---
@@ -42,9 +39,9 @@ Desenvolvedor em formação, apaixonado por transformar ideias em soluções dig
 
 ### 🌱 Atualmente Aprendendo
 
-- **TypeScript:** Para adicionar tipagem estática e robustez aos meus projetos JavaScript/React.
-- **Testes Automatizados:** Explorando Jest e React Testing Library para garantir a qualidade do código.
-- **SQL e Bancos de Dados Relacionais:** Aprofundando conhecimentos em modelagem e consulta de dados.
+- **Análise de Dados com Python:** Utilizando bibliotecas como Pandas e Matplotlib.
+- **Robótica e IoT:** Desenvolvendo projetos práticos com Arduino e ESP32.
+- **Inglês Técnico:** Foco em documentação e comunicação na área de tecnologia.
 
 ---
 
