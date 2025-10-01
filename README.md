@@ -7,8 +7,8 @@ Desenvolvedor em formação, apaixonado por transformar ideias em soluções dig
 ### 👨‍💻 Sobre Mim
 
 <p align="left"> 
-🎓 Cursando o 6º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRS - Campus Sertão[cite: 48, 49].<br>
-🎯 Buscando uma <strong>oportunidade de estágio</strong> para aplicar e expandir meus conhecimentos em um ambiente profissional, colaborando com equipes e projetos inovadores[cite: 32].<br>
+🎓 Cursando o 6º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFRS - Campus Sertão.<br>
+🎯 Buscando uma <strong>oportunidade de estágio</strong> para aplicar e expandir meus conhecimentos em um ambiente profissional, colaborando com equipes e projetos inovadores.<br>
 💡 Minha jornada começou na cultura maker, com projetos envolvendo <strong>Modelagem 3D, Arduino e Design</strong>, o que me deu uma base sólida em resolução criativa de problemas.
 </p>
 
