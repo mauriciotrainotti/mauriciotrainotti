@@ -20,7 +20,7 @@ Analista de BI na Sicredi Sul Minas | Desenvolvedor & Entusiasta da Cultura Make
   <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
+  <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"></a>
 </p>
 
 <p align="left">
@@ -45,7 +45,7 @@ Analista de BI na Sicredi Sul Minas | Desenvolvedor & Entusiasta da Cultura Make
 
 ### 🌱 Atualmente Aprendendo
 
-- **Arquitetura de Dados e BI:** Aprofundando em modelagem de dados, DAX e processamento em tempo real (Kafka, Confluent Cloud).
+- **Arquitetura de Dados e BI:** Aprofundando em modelagem de dados, DAX e processamento de grandes volumes de dados (Databricks).
 - **Desenvolvimento Full Stack:** Construindo soluções completas, escaláveis e integradas do back-end ao front-end.
 - **Robótica e IoT:** Desenvolvendo projetos práticos e integrando hardware (ESP32) na cultura maker.
 - **Inglês Técnico:** Foco em documentação e comunicação assertiva na área de tecnologia.
